@@ -1,6 +1,6 @@
 ### Hi there, i'm Oluwatunmise Olatunbosun 👋
 
-I'm Oluwatunmise Olatunbosun and i'm a software developer with a lot of passion for building serveer side applications. 
+I'm Oluwatunmise Olatunbosun and i'm a software developer with a lot of passion for building server side applications. 
 
 - 🌱 I’m currently learning how to build web 3.0 dapps using Algorand and Etherum network.
 - 👯 I’m looking to collaborate on creating solutions tools that will solve real world problems.
