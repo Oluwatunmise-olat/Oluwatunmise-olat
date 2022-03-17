@@ -3,7 +3,7 @@
 I'm Oluwatunmise Olatunbosun and i'm a software developer with a lot of passion for building server side applications. 
 
 - 🌱 I’m currently learning how to build web 3.0 dapps using Algorand and Etherum network.
-- 👯 I’m looking to collaborate on creating solutions tools that will solve real world problems.
+- 👯 I’m looking to collaborate on creating solutions that will solve real world problems.
 - 💬 Ask me about things related to Django and Express, would try my best to answer, Learning everday 🙂.
 - 📫 How to reach me: [send me a mail](mailto:oluwatunmiseolatunbosun2001@gmail.com)
 - 😄 Pronouns: He/Him
