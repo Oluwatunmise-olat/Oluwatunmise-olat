@@ -5,4 +5,4 @@
 <!-- - 🌱 I’m currently learning about cloud engineering and golang -->
 - 👯 I am open to collaborating on open source projects, solving real world problems
 - 💬 Ask me about backend systems
-- 📫 How to reach me: oluwatunmiseolatunbosun2001@gmail.com
+- 📫 How to reach me: theoluwatunmiseolatunbosun@gmail.com
